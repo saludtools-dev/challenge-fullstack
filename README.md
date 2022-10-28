@@ -1,7 +1,7 @@
 # Saludtools Fullstack Challenge
 
 ### Objetivo
-Diseñar una aplicación por medio de la cual se le puedan prescribir medicamentos a pacientes registrados teninedo en cuenta ciertas variasbles que se describirán a continuación:
+Diseñar una aplicación por medio de la cual se le puedan prescribir medicamentos a pacientes registrados teniendo en cuenta ciertas variables que se describirán a continuación:
 
 ## Creación de pacientes:
 
